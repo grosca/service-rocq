@@ -1,0 +1,28 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="actionBarStyle">@style/ActionBarAppTheme</item>
+        <item name="android:actionBarStyle">@style/ActionBarAppTheme</item>
+        <item name="android:actionBarItemBackground">@drawable/selectable</item>
+        <item name="actionBarItemBackground">@drawable/selectable</item>
+        <item name="android:windowBackground">@color/AppBackground</item>
+        <item name="android:textColor">@color/AppTextColor</item>
+    </style>
+
+    <style name="ActionBarAppTheme" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="android:icon">@drawable/icon_default</item>
+        <item name="icon">@drawable/icon_default</item>
+        <item name="android:background">@color/AppTitleBackground</item>
+        <item name="background">@color/AppTitleBackground</item>
+        <item name="android:titleTextStyle">@style/TitleStyle</item>
+        <item name="titleTextStyle">@style/TitleStyle</item>
+    </style>
+
+    <style name="TitleStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/AppTitleTextColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Service-Rocq</string>
+    <string name="callout_new">new service</string>
+    <string name="callout_join">join service</string>
+    <string name="callout_save">save service</string>
+    <string name="callout_none">No service.\r\nTo create one tap \'+\'.</string>
+    <string name="callout_member">You are not a member of the group.\r\nTap to retry.</string>
+    <string name="callout_comments_none">To join thumbs up!</string>
+    <string name="app_callout">Service</string>
+    <string name="app_createcallout">Create service</string>
+    <string name="app_title_hint">title</string>
+    <string name="app_description_hint">description</string>
+    <string name="app_date_hint">date</string>
+    <string name="app_time_hint">time</string>
+    <string name="app_all_fields">Input all fields.</string>
+    <string name="callout_join_text">I want!</string>
+    <string name="app_callout_format">Description: %s</string>
+
+    <string-array name="app_service_options">
+        <item>I offer</item>
+        <item>I search</item>
+    </string-array>
+    <string-array name="app_service_categories">
+        <item>informatics</item>
+        <item>vehicle</item>
+        <item>nature</item>
+        <item>do-it-yourself</item>
+        <item>kitchen</item>
+        <item>creation</item>
+    </string-array>
+
+</resources>

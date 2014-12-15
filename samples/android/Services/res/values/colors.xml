@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="AppTitleBackground">#069ea3</color>
+    <color name="AppTitleSelected">#0dc0c5</color>
+    <color name="AppTitleTextColor">#ffffff</color>
+    <color name="AppBackground">#dedede</color>
+    <color name="AppTextColor">#1a1a1a</color>
+    <color name="AppListSelected">#0cbfc4</color>
+
+</resources>
